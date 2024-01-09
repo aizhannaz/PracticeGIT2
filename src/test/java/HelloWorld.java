@@ -3,5 +3,7 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("This is my second change");
     }
+
+    // this is the code which was added by another developer
 }
 
